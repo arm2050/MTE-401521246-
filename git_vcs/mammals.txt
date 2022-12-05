@@ -1,0 +1,12 @@
+group A:
+  - Wolf
+  - Red fox
+  - Red squirrel
+  - Bats
+
+group B:
+  - Sheep
+  - Camels
+  - Cat
+  - Horse
+
