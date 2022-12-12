@@ -1,0 +1,2 @@
+Answerto question 2:
+git reset commit-hash --hard
